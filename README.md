@@ -146,17 +146,9 @@ Password: Demo@1234
 
 
 
-## 📸 Screenshots
+## 📱 Screenshots
 
-### 🔐 Login Screen
-![Login](screenshots/login.png)
-
-### 📊 Deal List Screen
-![Deal List](screenshots/deal_list.png)
-
-### 📄 Deal Detail Screen
-![Deal Detail](screenshots/deal_detail.png)
-
-### My Interests Screen
-![Interests](screenshots/interests.png)
+| Login | Deal List | Filters | Deal Detail | My Interests |
+|-------|-----------|---------|-------------|--------------|
+| ![Login](screenshots/1_login.png) | ![Deal List](screenshots/2_deal_list.png) | ![Filters](screenshots/3_filter.png) | ![Deal Detail](screenshots/4_deal_detail.png) | ![My Interests](screenshots/5_interests.png) |
 
